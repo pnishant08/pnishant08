@@ -1,10 +1,14 @@
-# Hi 👋, I'm Nishant Pandey
+<h1 align="center">Hi 👋, I'm Nishant Pandey</h1>
 
-### Full Stack Developer | DevOps | Generative AI
+<h3 align="center">
+Full Stack Developer | DevOps | Generative AI
+</h3>
 
+<p align="center">
 Building scalable web applications, cloud-native solutions, and AI-powered products.
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/nishant-8bb69a216">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
